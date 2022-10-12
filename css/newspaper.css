@@ -1,0 +1,6 @@
+* {
+  font-family:Times;
+}
+img, .rss {
+  filter: grayscale(100%);
+}
